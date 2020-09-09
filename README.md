@@ -8,5 +8,17 @@ Using Web Scraping we extract real time stock data
 
 
 pip3 install yahoo_fin
+
+
+
+
+
 pip3 install  smtplib
+
+
+
+
+
+
+
 pip3 installrequests 
